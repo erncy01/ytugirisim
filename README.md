@@ -14,11 +14,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Frontend Setup
 
-`git clone https://github.com/AhmetErenLapanta/ytugirisim.club.git`
+`git clone https://github.com/erncy01/ytugirisim.git`
 
 1- Install dependencies
 
-`cd ytugirisim.club/ytugirisim_client`
+`cd ytugirisim/ytugirisim_client`
 
 2- Run the development server
 
@@ -28,7 +28,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1- Open up a new terminal and navigate into the backend folder.
 
-`cd ytugirisim.club/ytugirisim_backend`
+`cd ytugirisim/ytugirisim_backend`
 
 2- Start your project by running the following command:
 
