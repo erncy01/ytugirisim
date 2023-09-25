@@ -6,8 +6,8 @@ The website is developed using React, Next.js, Strapi and Framer Motion technolo
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-- Node.js
-- npm
+- Node.js v18.18.0
+- npm v9.8.1
 
 ### Installing
 1- Clone the repository
