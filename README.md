@@ -12,17 +12,27 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 1- Clone the repository
 
+### Frontend Setup
+
 `git clone https://github.com/AhmetErenLapanta/ytugirisim.club.git`
 
-2- Install dependencies
+1- Install dependencies
 
-`cd ytugirisim.club`
+`cd ytugirisim.club/ytugirisim_client`
 
-`npm install`
-
-3- Run the development server
+2- Run the development server
 
 `npm run dev`
+
+### Backend Setup
+
+1- Open up a new terminal and navigate into the backend folder.
+
+`cd ytugirisim.club/ytugirisim_backend`
+
+2- Start your project by running the following command:
+
+`npm run develop`
 
 ## Built With
 - [React](https://react.dev/) - A JavaScript library for building user interfaces
