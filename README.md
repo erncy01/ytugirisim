@@ -1,4 +1,5 @@
-# ytugirisim.club
+# ytugirisim
+
 The official repository for the website of the Yildiz Technical University Entrepreneurship Club.
 The website is developed using React, Next.js, Strapi and Framer Motion technologies.
 
