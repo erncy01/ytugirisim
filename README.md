@@ -30,4 +30,4 @@ These instructions will get you a copy of the project up and running on your loc
 - [Framer Motion](https://www.framer.com/motion/) - A JavaScript library for creating smooth animations
 
 ## Authors
-[Mustafa Eren Çay](https://www.linkedin.com/in/mustafa-eren-çay/)
+[Mustafa Eren Çay](https://www.linkedin.com/in/mustafa-eren-çay-713005198/)
