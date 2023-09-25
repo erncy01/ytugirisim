@@ -1,0 +1,11 @@
+{
+  "name": "ytugirisim.club",
+  "version": "1.0.0",
+  "description": "The official repository for the website of the Yildiz Technical University Entrepreneurship Club.\r The website is developed using React, Next.js, Strapi and Framer Motion technologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

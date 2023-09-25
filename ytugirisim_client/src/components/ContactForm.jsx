@@ -1,0 +1,48 @@
+import React from "react";
+
+const ContactForm = () => {
+    return (
+        <div className="bd-grid" id="contact">
+            <h2 className="section-title">İletişime Geç!</h2>
+            <div className="contact__container bd-grid">
+                <form
+                    className="contact__form"
+                    method="POST"
+                    action="https://formspree.io/f/mwkdrqkb"
+                >
+                    <input
+                        type="text"
+                        placeholder="İsim"
+                        className="contact__input"
+                        name="name_client"
+                    />
+                    <input
+                        type="mail"
+                        placeholder="Email"
+                        className="contact__input"
+                        name="email"
+                    />
+                    <input
+                        type="tel"
+                        placeholder="Telefon Numarası"
+                        className="contact__input"
+                        name="Tel"
+                    />
+                    <textarea
+                        name="message"
+                        cols={0}
+                        rows={10}
+                        className="contact__input"
+                        placeholder="Açıklama"
+                        defaultValue={""}
+                    />
+                    <button type="submit" className="button2">
+                        Gönder
+                    </button>
+                </form>
+            </div>
+        </div>
+    );
+};
+
+export default ContactForm;
