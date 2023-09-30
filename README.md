@@ -11,17 +11,22 @@ These instructions will get you a copy of the project up and running on your loc
 - npm v9.8.1
 
 ### Installing
-1- Clone the repository
 
-### Frontend Setup
+1- Clone the repository
 
 `git clone https://github.com/erncy01/ytugirisim.git`
 
-1- Install dependencies
+### Frontend Setup
+
+1- Navigate into the frontend folder.
 
 `cd ytugirisim/ytugirisim_client`
 
-2- Run the development server
+2- Install dependencies
+
+`npm install`
+
+3- Run the development server
 
 `npm run dev`
 
@@ -31,7 +36,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 `cd ytugirisim/ytugirisim_backend`
 
-2- Start your project by running the following command:
+2- Install dependencies
+
+`npm install`
+
+3- Start your project by running the following command:
 
 `npm run develop`
 
@@ -41,4 +50,4 @@ These instructions will get you a copy of the project up and running on your loc
 - [Framer Motion](https://www.framer.com/motion/) - A JavaScript library for creating smooth animations
 
 ## Authors
-[Mustafa Eren Çay](https://www.linkedin.com/in/mustafa-eren-çay-713005198/)
+[Mustafa Eren Ã‡ay](https://www.linkedin.com/in/mustafa-eren-Ã§ay-713005198/)
