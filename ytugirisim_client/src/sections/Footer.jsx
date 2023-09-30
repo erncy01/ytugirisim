@@ -41,7 +41,7 @@ const Footer = () => {
                 <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://www.linkedin.com/in/ahmet-eren-lapanta/"
+                    href="https://www.linkedin.com/in/mustafa-eren-çay-713005198/"
                 >
                     Technical Team Leader of the Club
                 </a>
